@@ -3,7 +3,7 @@
 # __240817 실습__
 ## __실습(1, 2)__
 
-1. 코랩 버튼 클릭 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/163Wi_0uhgDksn1pikqWq4lSy4MvYKqnp?usp=sharing)
+1. 코랩 버튼 클릭 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/163Wi_0uhgDksn1pikqWq4ISy4MvYKqnp?usp=sharing)
 2. 'Google Colaboratory로 열기' 클릭
 2. 파일 > Drive에 사본저장  
 3. 구글 드라이브 마운트   
