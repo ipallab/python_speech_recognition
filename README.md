@@ -14,3 +14,6 @@
 
 ## __⭐️ 실습(3) GMM-HMM을 이용한 음소 예측__
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZQoAQLiQaHGqMVvgpTt3Fu3KR5gbmf4_/view?usp=sharing)
+
+
+정답 코드: https://colab.research.google.com/drive/12v9f_7-FPJBJ_fx-oFphmDqQ7HJC1Dzl?usp=sharing 
