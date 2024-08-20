@@ -1,7 +1,8 @@
 # __240817 실습__
 ## __⭐️ 실습(1, 2)__
 
-1. 코랩 버튼 클릭 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158V4HD9ZT4zicjGNvLM14eUZg-C-TriD?usp=sharing)
+실습 코드: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158V4HD9ZT4zicjGNvLM14eUZg-C-TriD?usp=sharing) 
+1. 코랩 버튼 클릭  
 2. 'Google Colaboratory로 열기' 클릭
 3. 파일 > Drive에 사본저장  
 4. 구글 드라이브 마운트   
@@ -13,7 +14,7 @@
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/163Wi_0uhgDksn1pikqWq4ISy4MvYKqnp?usp=sharing)
 
 ## __⭐️ 실습(3) GMM-HMM을 이용한 음소 예측__
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZQoAQLiQaHGqMVvgpTt3Fu3KR5gbmf4_/view?usp=sharing)
+실습 코드: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZQoAQLiQaHGqMVvgpTt3Fu3KR5gbmf4_/view?usp=sharing)
 
-
-정답 코드: https://colab.research.google.com/drive/12v9f_7-FPJBJ_fx-oFphmDqQ7HJC1Dzl?usp=sharing 
+> __😃 정답코드__  
+> https://colab.research.google.com/drive/12v9f_7-FPJBJ_fx-oFphmDqQ7HJC1Dzl?usp=sharing 
