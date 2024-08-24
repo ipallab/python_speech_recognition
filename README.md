@@ -12,7 +12,7 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 
 ## __실습 (2) Whisper Fine-tuning__   
 
-> __😃 실습 코드__ 
+> __😃 실습 코드__      
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing) https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing      
 > 
 
