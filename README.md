@@ -7,13 +7,13 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 ## __실습 (1) Whisper Inference__ 
 
 > __😃 실습 코드__   
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ezz2HKxvjhTGBy_5Uw3KjfZcPAHIm1s-/view?usp=sharing)
 >
 
 ## __실습 (2) Whisper Fine-tuning__   
 
 > __😃 실습 코드__      
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()    
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1R_-7OkXBFwLkm0mXp-2kgZSvN4JB713n/view?usp=sharing)    
 > 
 
 
@@ -33,17 +33,6 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 
 > __😃 실습 코드__   
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158V4HD9ZT4zicjGNvLM14eUZg-C-TriD?usp=sharing)
-
-__Example__  
- <div align="center">
-  <a href="">
-    <img src="docs/windowing.jpeg" width="300px" height="500px"/> 
-  </a>
-  <a href="">
-    <img src="docs/mfcc.png" width="360px" height="500px"/>
-  </a>
-</div>
-
 
 > __⭐️ 정답코드__   
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/163Wi_0uhgDksn1pikqWq4ISy4MvYKqnp?usp=sharing)    
@@ -66,15 +55,8 @@ __Example__
 본 실습은 [Google Colab](https://colab.google/)을 통해 진행됩니다. Colab을 사용하기 위해 구글 계정이 필요합니다. 
 1. 구글 로그인 
 2. Google Colaboratory 노트북 생성 ([LINK](https://colab.google/))
-3. __구글 드라이브 마운트__   
-   데이터셋을 업로드하고 코드에서 파일을 불러오기 위해 구글 드라이브와 연결이 필요합니다. 액세스 요청 시 권한을 모두 허용해야 오류가 생기지 않습니다. 
-   <img width="685" alt="image" src="docs/colab_drive_mount(1).png" style="border: 2px solid grey;">
+3. __구글 드라이브 마운트__
 
-
-   <img width="685" alt="image" src="docs/colab_drive_mount(2).png" style="border: 2px solid grey;"> 
-
-### 세션 관리 및 런타임 장치 
-...
 
 ### 리눅스 시스템 기초 
 코랩 왼쪽의 폴더 아이콘을 클릭하면 시스템의 폴더 구조를 볼 수 있습니다. 
