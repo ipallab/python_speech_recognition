@@ -15,7 +15,7 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 2. openai-whisper 라이브러리 사용 - 실습(1)
 3. 허깅페이스에서 whisper 모델을 불러와 사용 - 실습(2) 
 
-실습 데이터셋은 전과 마찬가지로 aihub의 [소음 환경 음성인식 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=568)를 사용하였습니다. 아래 코드 상에 허깅페이스의 datasets 라이브러리로 로드를 하고 있는데, 해당 데이터셋이 삭제되었을 경우 직접 다운로드 받은 후 preprocess를 진행해야 합니다. 데이터 전처리는 aihub_preprocess.ipynb 파일을 참조해주세요. 
+실습 데이터셋은 전과 마찬가지로 aihub의 [소음 환경 음성인식 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=568)를 사용하였습니다. 아래 코드 상에 허깅페이스의 datasets 라이브러리로 로드를 하고 있는데, 해당 데이터셋이 삭제되었을 경우 직접 다운로드 받은 후 preprocess를 진행해야 합니다. 데이터 전처리는 [aihub_preprocess.ipynb](https://github.com/ipallab/python_speech_recognition/blob/main/aihub_preprocess.ipynb) 파일을 참조해주세요. 
 
 > __😃 실습 코드__   
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ezz2HKxvjhTGBy_5Uw3KjfZcPAHIm1s-/view?usp=sharing)
