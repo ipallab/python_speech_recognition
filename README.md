@@ -4,12 +4,18 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 - 딥러닝 기반의 음성인식 모델 
 
 # __240824 실습__ 
-## __실습 Whisper 사용하기__ 
+## __실습 (1) Whisper Inference__ 
 
-> __위스퍼 사용 실습__  
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing) https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing    
-> __파인튜닝 실습__      
+> __😃 실습 코드__   
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing) https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing
+>
+
+## __실습 (2) Whisper Fine-tuning__   
+
+> __😃 실습 코드__ 
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing) https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing      
+> 
+
 
 # __240817 실습__
 ## __실습 (1) 음성파일 불러오기 및 STFT, MFCC__
