@@ -6,12 +6,11 @@ Python 환경 기반의 음성인식 실습에서는 아래의 내용을 다루�
 # __240824 실습__ 
 ## __실습 Whisper 사용하기__ 
 
-본 실습에서는 Hugging face API를 사용합니다. 
+> __위스퍼 사용 실습__  
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing) https://colab.research.google.com/drive/16nfMaKWByApF6PNkeArJwHbBT7_laS8X?usp=sharing    
+> __파인튜닝 실습__      
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing) https://drive.google.com/file/d/1CPd8A6nUknUNlWdpKvwgAbYzpsDD-_Iq/view?usp=sharing      
 
-Hugging face를 통해 최신 딥러닝 모델을 손쉽게 사용할 수 있고, 하나의 API로 모든 사전학습 모델을 사용할 수 있습니다. 
-  
-다만 허깅페이스 라이브러리로 신경망 블록을 만들 수는 없습니다. 필요에 맞게 일부 코드를 수정해야 할 수 있습니다.
- 
 # __240817 실습__
 ## __실습 (1) 음성파일 불러오기 및 STFT, MFCC__
  
